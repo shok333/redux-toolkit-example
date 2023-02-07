@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "date": "12:33 27.01.2023",
+      "text": "Hello guys",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "date": "12:45 27.01.2023",
+      "text": "Hello, Dima",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "date": "12:45 27.01.2023",
+      "text": "Привет. Как настроение у Вас, господа?",
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "date": "12:45 27.01.2023",
+      "text": "А у Вас?",
+      "authorId": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Dima",
+      "avatar": "https://gravatar.com/avatar/41c796024b8af3ce30a054904bb3d25c?s=400&d=robohash&r=x"
+    },
+    {
+      "id": 2,
+      "name": "Kolya",
+      "avatar": "https://gravatar.com/avatar/986c186bfc8dc7d312dea9690b317ccc?s=400&d=robohash&r=x"
+    },
+    {
+      "id": 3,
+      "name": "Nikita",
+      "avatar": "https://gravatar.com/avatar/1fe8e900a9ea8736eda6a22d3d343215?s=400&d=robohash&r=x"
+    }
+  ]
+}
